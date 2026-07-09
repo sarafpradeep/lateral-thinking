@@ -1,2 +1,5 @@
 # Local planning docs - never publish
 docs/superpowers/
+
+# Scratch output from browser tooling
+.playwright-mcp/
