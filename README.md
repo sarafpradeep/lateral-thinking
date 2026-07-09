@@ -77,17 +77,17 @@ The technique produced different **concepts**: churn against contention, churn a
 **Any agent (recommended):**
 
 ```bash
-npx skills add OWNER/lateral-thinking
+npx skills add danium/lateral-thinking
 ```
 
 **Claude Code (plugin):**
 
 ```
-/plugin marketplace add OWNER/lateral-thinking
+/plugin marketplace add danium/lateral-thinking
 /plugin install lateral-thinking@lateral-thinking
 ```
 
-**Codex:** ask `$skill-installer` to install from `https://github.com/OWNER/lateral-thinking`
+**Codex:** ask `$skill-installer` to install from `https://github.com/danium/lateral-thinking`
 
 **Manual:** clone and copy `skills/*` into your agent's skills directory.
 

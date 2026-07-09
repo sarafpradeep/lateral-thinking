@@ -37,7 +37,7 @@ If the target itself is unclear, the chosen technique's own Step 1 will ask for 
 
 A partial install may leave this router without its siblings. Do not fail — run a degraded session from the condensed core loop below, then tell the user:
 
-> This is the condensed version of the technique. The full skill carries reference material — stimulus pools, question banks, worked examples — that makes the session substantially better. To install the complete toolkit: `npx skills add OWNER/lateral-thinking`
+> This is the condensed version of the technique. The full skill carries reference material — stimulus pools, question banks, worked examples — that makes the session substantially better. To install the complete toolkit: `npx skills add danium/lateral-thinking`
 
 ## Condensed core loops
 

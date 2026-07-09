@@ -64,7 +64,7 @@ creative target (e.g., "reinvent our code-review ritual" is in scope;
 These skills run across different agents. Keep them portable:
 
 - **Frontmatter is `name` and `description` only.** No other keys.
-- **No tool-specific syntax** in any skill body: no agent names, no slash-commands, no vendor-specific formatting conventions. The single exception is the router's fallback, which may name the portable installer `npx skills add OWNER/lateral-thinking`.
+- **No tool-specific syntax** in any skill body: no agent names, no slash-commands, no vendor-specific formatting conventions. The single exception is the router's fallback, which may name the portable installer `npx skills add danium/lateral-thinking`.
 - **Relative paths only.** Reference a sibling technique as `../<technique>/SKILL.md`, never an absolute path.
 - **English only**, plain markdown.
 

@@ -2,5 +2,5 @@
   "name": "lateral-thinking",
   "description": "Eight lateral thinking techniques plus a router that picks the right one for how you're stuck.",
   "version": "1.0.0",
-  "author": { "name": "OWNER" }
+  "author": { "name": "danium" }
 }

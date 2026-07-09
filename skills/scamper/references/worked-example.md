@@ -2,9 +2,9 @@
 
 A real run. The target was an existing, working thing — the install experience of this very toolkit:
 
-> "SCAMPER the install experience of this toolkit (`npx skills add OWNER/lateral-thinking`)."
+> "SCAMPER the install experience of this toolkit (`npx skills add danium/lateral-thinking`)."
 
-Context taken as given: the toolkit is a free MIT-licensed collection of 8 lateral-thinking technique skills plus a router skill named `lateral`. It installs as one bundle because the router needs its sibling techniques present to hand off to them. Four install channels exist today: `npx skills add OWNER/lateral-thinking` for any agent; a plugin marketplace; a skill-installer; and manual clone-and-copy of `skills/*`.
+Context taken as given: the toolkit is a free MIT-licensed collection of 8 lateral-thinking technique skills plus a router skill named `lateral`. It installs as one bundle because the router needs its sibling techniques present to hand off to them. Four install channels exist today: `npx skills add danium/lateral-thinking` for any agent; a plugin marketplace; a skill-installer; and manual clone-and-copy of `skills/*`.
 
 All seven operations were run in order. Four bit; three came up empty and are shown empty, because the empties are what prove the run was honest.
 
