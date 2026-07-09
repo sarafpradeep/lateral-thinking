@@ -1,0 +1,11 @@
+{
+  "name": "lateral-thinking",
+  "owner": { "name": "OWNER" },
+  "plugins": [
+    {
+      "name": "lateral-thinking",
+      "source": ".",
+      "description": "Eight lateral thinking techniques plus a router that picks the right one for how you're stuck."
+    }
+  ]
+}
