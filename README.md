@@ -1,11 +1,13 @@
 # lateral-thinking
 
-**Your AI agent's ideas are predictable. These skills fix that.**
+**Your product isn't out of ideas. It's stuck in the obvious ones.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Skills: 9](https://img.shields.io/badge/skills-9-blue.svg)
 
-Eight lateral thinking techniques — de Bono, Eberle, Gordon — plus a router that diagnoses how you're stuck and picks the right one.
+Give your AI coding agent eight structured ways to find a better product direction — not just another feature to ship. A router diagnoses how you're stuck and picks the right move.
+
+![A maze breaking into unexpected paths, captioned: Your next feature isn't the next obvious one.](assets/social-preview.jpg)
 
 ---
 
@@ -13,7 +15,7 @@ Eight lateral thinking techniques — de Bono, Eberle, Gordon — plus a router 
 
 Same agent. Same prompt. One of them read a skill first.
 
-> **Prompt:** *"Suggest names for a feature that shows users which parts of their codebase change most often."*
+> **Prompt:** *"Our users create one project, then never return. What product direction would make that first project worth coming back to?"*
 
 <table>
 <tr>
@@ -23,52 +25,43 @@ Same agent. Same prompt. One of them read a skill first.
 <tr valign="top">
 <td>
 
-**Direct and descriptive**
-- **Change Frequency** — plainly says what it measures.
-- **Change Hotspots** — "hotspots" is already common vocabulary in this space.
-- **Churn Map** — "code churn" is an established metric.
-- **File Activity** — broad and neutral.
+**Onboarding checklist**
+Give them three next steps after project creation.
 
-**Hotspot / heat metaphor**
-- **Hotspots** — the metaphor does the explaining for you.
-- **Code Heatmap** — more color = more activity.
-- **Hot Zones** — a softer take on hotspots.
+**Weekly email summary**
+Remind them what changed and invite them back.
 
-**Insight / analytics framing**
-- **Churn Insights** — positions it as analytics.
-- **Code Pulse** — a heartbeat of the codebase.
-- **Activity Radar** — suggests ongoing monitoring.
+**Personalized dashboard**
+Make the home screen more useful after the first project.
 
-*(15 names, competently reasoned.)*
+*(Three sensible features. One idea: ask the user to remember the product.)*
 
 </td>
 <td>
 
-🌋 **The fault line**
-Two plates grind past each other. Stress accumulates invisibly. The line is mapped *because* it's dangerous.
+🗼 **The lighthouse beam**
+It does not light the whole sea. It sends a precise signal when navigation matters.
 
-→ Files that change constantly aren't the danger. The danger is where two **teams** grind against the same file.
+→ A return trigger should be caused by the user's project, not by a generic reminder.
 
-**Faultline** — churn × distinct authors. Not "what changes" but *what changes under contention.*
+**Beacon** — when a project reaches a date, risk, or decision the user chose at creation, send one concise signal explaining why it needs attention now.
 
-🦩 **The heron stalking**
-Absolute stillness, then one strike. The stillness *is* the technique.
+🍞 **The sourdough starter**
+It becomes more useful between visits. Small inputs create a living thing worth checking on.
 
-→ Then the *stillest* files are the interesting ones.
+→ A first project should begin a rhythm, not become a static container.
 
-**Heron** — inverts the brief. Shows what **hasn't** changed, and asks if that's maturity or abandonment.
+**Pulse** — turn the first project into a lightweight weekly brief: what changed, what is blocked, and the one decision that would move it forward.
 
-🐜 **The termite mound** — collapses into the fault-line idea, and every name it yields is worse. **Abandoned.**
+🎡 **The Ferris wheel** — it repeats a visible loop, but the force-fit only produced a prettier recurring dashboard. **Abandoned.**
 
 </td>
 </tr>
 </table>
 
-The vanilla answer isn't bad. It's *good* — and every name in it is a synonym for "the thing that changes." Fifteen names, one idea.
+The vanilla answer isn't bad. It's *good* — and every feature asks the user to do more work or remember to return. Three features, one idea.
 
-The technique produced different **concepts**: churn against contention, churn against ownership, churn against time. Then it found the meta-pattern the exercise was really about — *raw churn isn't the signal; churn is only meaningful against a second axis* — and that's why two of the eight stimuli were abandoned. They restated churn as a prettier picture of itself.
-
-[See the full session →](skills/random-stimulus/references/worked-example.md)
+The technique produced different **product directions**: a project that signals at the right moment, and a project that gets more useful between visits. The meta-pattern is the point: retention is not a reminder problem. It is a **new-signal problem**. Give people a reason to return that did not exist when they left.
 
 ---
 
@@ -114,7 +107,7 @@ Or just tell your agent **"use the lateral skill"** and let it diagnose you.
 
 ## Anatomy of a session
 
-Every technique in this repo is required to fail in public. Here is `scamper` refusing to pad its own output, mid-session:
+Every technique in this repo makes failures visible. Here is `scamper` refusing to pad its own output, mid-session:
 
 > **Substitute:** nothing new. The command is already swapped down to one line, and the only meaningful substitution (git for installer) already ships as a channel. Moving on.
 >
@@ -143,7 +136,7 @@ These are real methods, sourced:
 
 **This is not magic and it is not a prompt pack.** It is structured divergence with quality rules attached. The techniques constrain *how* an agent generates, and the honesty mechanics constrain what it's allowed to claim afterward.
 
-**On invocation:** auto-invocation is best-effort — your agent may or may not reach for a skill on its own, and that depends on the agent. Explicit invocation always works: name the skill, or name the router.
+**On invocation:** auto-invocation is best-effort — your agent may or may not reach for a skill on its own, and that depends on the agent. For the reliable path, name the skill or ask your agent to use the router.
 
 ---
 
