@@ -64,6 +64,11 @@ This keeps the batch honest. If nothing in the batch makes you wince, the batch 
 
 **Dead mechanisms.** Not every mechanism inverts into something useful. Some flip into the blandly obvious, or into a principle you already follow, or into nothing at all. Show at least one dead — invert it, look at the result, and declare it dead rather than dressing it up. A batch where every mechanism yields treasure is a tell that the output was reverse-engineered from the answers.
 
+**When the batch itself fails.** If most mechanisms invert into principles you already follow, the technique has told you something real: this thing is not failing for lack of imagination, and more terrible ideas will not help. Name the diagnosis, suggest the technique that fits it as the user's next move, and stop there — do not run it yourself:
+
+- The inversions are all things you already do → the design is sound and the question is elsewhere. Suggest `concept-fan` to check you are solving the right problem.
+- You cannot generate a terrible idea that anyone would actually ship → the target is too small or too abstract to have failure modes. Suggest `random-stimulus` for generative range.
+
 ## What NOT to do
 
 - **Don't sanitize the terrible ideas.** The wince is the signal. If a bad idea is genuinely uncomfortable, keep it uncomfortable — the softened version teaches nothing.

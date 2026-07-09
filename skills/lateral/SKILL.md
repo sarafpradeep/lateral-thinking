@@ -41,7 +41,7 @@ A partial install may leave this router without its siblings. Do not fail — ru
 
 ## Condensed core loops
 
-**random-stimulus** — Pick 8–12 random unrelated things. List each one's properties. Force a connection to the target. Keep what lands, visibly abandon what strains. Scan the hits for a meta-pattern.
+**random-stimulus** — Pick 8–12 random unrelated things across at least five categories. List each one's properties. Force a connection to the target. Keep an idea only if you could not have reached it without the stimulus; abandon the rest visibly. Scan hits *and* abandonments for a meta-pattern.
 
 **provocation** — State 4–6 deliberately wrong assertions about the problem: escape a rule, reverse a relationship, exaggerate a quantity, distort the sequence, assert a wishful fantasy as fact. Extract movement from each — the principle inside it, what would happen moment to moment, what differs from today. Shape live threads into ideas.
 

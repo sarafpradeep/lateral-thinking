@@ -48,6 +48,11 @@ Pick the sharpest transplants. Say which are weak and why. Offer next moves — 
 
 **Surface analogies are named and dropped.** A domain that shares *vocabulary* with your target but not *structure* is the most seductive trap and the most useless. Call it out as surface-level and drop it. A batch where every domain transfers cleanly is a tell that the output is being retrofitted; expect at least one honest abandonment.
 
+**When no domain rhymes.** If every domain needs a second forced role, the fault is usually the Step 2 sentence, not the domains. Rewrite it once. If the rewrite still names no bottleneck, stop drawing domains — name the diagnosis, suggest the technique that fits it as the user's next move, and stop there rather than running it yourself:
+
+- The structure sentence keeps coming out as a solution rather than a shape → suggest `concept-fan`, which climbs until the real problem appears.
+- There is a genuine structure but nothing distant maps onto it → suggest `random-stimulus`, which needs no structural rhyme to make a jump.
+
 ## What NOT to do
 
 - **Don't pick domains that share vocabulary with the target.** Software-to-marketplace, app-to-platform — too close. The shared words hide the fact that no real transfer happened. The whole value is distance.

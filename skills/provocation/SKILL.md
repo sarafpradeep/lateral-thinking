@@ -61,6 +61,11 @@ A provocation that yields no movement after two honest attempts is abandoned vis
 
 Roughly 1 in 3 provocations will not pay off. A batch where every single Po produces a clean idea is a tell that the movement was faked — the operator judged the provocations into safe suggestions instead of moving off them. Show the failures; they are what proves the rest are real.
 
+**When the batch itself fails.** If almost nothing moves, the problem is upstream of the provocations. Do not write more of them. Name the diagnosis, suggest the technique that fits it as the user's next move, and stop there — do not run it yourself:
+
+- Step 2 could not produce four rules everyone treats as fixed → the target is too vague, or it is not actually fenced. Suggest `random-stimulus`, which needs no constraint to push against.
+- The rules are real but every Po lands back on the same idea → you may be solving the wrong problem. Suggest `concept-fan`, which climbs to the concept the target serves.
+
 ## What NOT to do
 
 - **Don't defend or attack the provocation.** It is not a proposal. Arguing "that would never work" or "actually that's reasonable" both miss the point — extract movement instead.

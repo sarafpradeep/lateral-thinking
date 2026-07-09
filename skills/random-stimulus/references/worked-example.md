@@ -4,7 +4,11 @@ A real session. The target was a naming and ideation problem:
 
 > "Suggest names for a feature that shows users which parts of their codebase change most often."
 
-Eight stimuli were drawn across categories (Time & Cycles, Geography, Insects, Household, Animals, Art & Craft, Water, Abstractions). Six landed; two were abandoned. Both abandonments are shown, because they are the point.
+Eight stimuli were drawn across six categories — Time & Cycles (×2), Geography & Landscape (×2), Insects & Microbes, Household Objects, Animals & Creatures, Art & Craft. Six concrete, two abstract. That clears the five-category floor and the two-concrete/one-abstract minimum, and no two same-pool draws sit adjacent. Each chain is labelled with its pool and its kind so you can check all three yourself rather than take this sentence's word for it.
+
+Note that kind is a property of the stimulus, not of its pool: *erosion* sits in Time & Cycles beside *hourglass*, but a process is abstract where an object is concrete. *Heron stalking* is filed under Animals, yet the stimulus is the stillness, not the bird.
+
+Six landed; two were abandoned. Both abandonments are shown, because they are the point.
 
 ---
 
@@ -12,13 +16,13 @@ Eight stimuli were drawn across categories (Time & Cycles, Geography, Insects, H
 
 State briefly why the technique works, once per session, before the first chain:
 
-> Staying inside the problem space — files, commits, diffs — routes every association through the same familiar paths, which is why the obvious name is "Hotspots" and why everyone lands there. A stimulus from outside the space breaks the routing. The first force-fit is usually trash; the third or fourth is where real ideas appear. Look for a stimulus whose *structural property* the target could have but doesn't yet.
+> Staying inside the problem space — files, commits, diffs — routes every association through the same familiar paths, which is why the obvious name is "Hotspots" and why everyone lands there. A stimulus from outside the space breaks the routing. The first stimuli are usually trash; the third or fourth is where real ideas appear — which is why we draw a batch rather than squeeze one object. Look for a stimulus whose *structural property* the target could have but doesn't yet.
 
 ---
 
 ## The chains
 
-### 🕰 The hourglass
+### 🕰 The hourglass — Time & Cycles [concrete]
 
 Properties: sand falls one way only; the neck is the constraint; you flip it to reset; you can always see how much remains.
 
@@ -28,7 +32,7 @@ Properties: sand falls one way only; the neck is the constraint; you flip it to 
 
 Half-hit. It names a chokepoint, not churn. Kept as a weaker direction rather than dressed up as a strong one.
 
-### 🌋 The fault line
+### 🌋 The fault line — Geography & Landscape [concrete]
 
 Properties: two plates grind past each other; stress accumulates invisibly; release is sudden; the line is mapped precisely *because* it is dangerous.
 
@@ -38,7 +42,7 @@ Properties: two plates grind past each other; stress accumulates invisibly; rele
 
 Strong. It reframes the metric and the name carries the warning.
 
-### 🐜 The termite mound
+### 🐜 The termite mound — Insects & Microbes [concrete]
 
 Properties: built with no architect; each termite follows local rules; ventilation shafts nobody designed; constantly repaired.
 
@@ -50,7 +54,7 @@ Properties: built with no architect; each termite follows local rules; ventilati
 
 **Abandoned.** The emergent-structure insight is genuine, but it collapses into the fault-line idea and every name it yields is worse. Moving on.
 
-### 🗄 The junk drawer
+### 🗄 The junk drawer — Household Objects [concrete]
 
 Properties: everything without a home ends up here; nobody owns it; you dread opening it; it works, sort of.
 
@@ -60,7 +64,7 @@ Properties: everything without a home ends up here; nobody owns it; you dread op
 
 Lands. Immediately legible to any engineer who has opened one.
 
-### 🦩 The heron stalking
+### 🦩 The heron stalking — Animals & Creatures [abstract]
 
 Properties: absolute stillness for minutes, then one strike. The stillness *is* the technique, not a pause between techniques.
 
@@ -70,7 +74,7 @@ Properties: absolute stillness for minutes, then one strike. The stillness *is* 
 
 Lands, and it was the surprise of the batch: the stimulus inverted the target rather than serving it.
 
-### 🏺 Kintsugi
+### 🏺 Kintsugi — Art & Craft [concrete]
 
 Properties: broken pottery repaired with gold; the repair is highlighted, never hidden; the object is more valuable after breaking than before.
 
@@ -80,7 +84,7 @@ Properties: broken pottery repaired with gold; the repair is highlighted, never 
 
 Lands as a visual mechanic more than as a name. It reframes the tool's entire emotional register.
 
-### 🌊 The river delta
+### 🌊 The river delta — Geography & Landscape [concrete]
 
 Properties: one channel splits into many; sediment deposits where flow slows; the shape changes yearly; the map is obsolete the moment it prints.
 
@@ -92,7 +96,7 @@ Properties: one channel splits into many; sediment deposits where flow slows; th
 
 **Abandoned.** The sediment image is seductive and every fit reduces to a restatement of churn. Moving on.
 
-### ⏳ Erosion
+### ⏳ Erosion — Time & Cycles [abstract]
 
 Properties: slow, invisible day to day, total across years; the softest rock goes first; what resists is left standing as landmarks.
 
