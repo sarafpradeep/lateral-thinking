@@ -3,7 +3,7 @@
 **Your product isn't out of ideas. It's stuck in the obvious ones.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Skills: 9](https://img.shields.io/badge/skills-9-blue.svg)
+![Skills: 10](https://img.shields.io/badge/skills-10-blue.svg)
 
 Give your AI coding agent eight structured ways to find a better product direction — not just another feature to ship. A router diagnoses how you're stuck and picks the right move.
 
@@ -100,6 +100,8 @@ npx skills add danium/lateral-thinking
 | We have one idea and need variations | [`scamper`](skills/scamper/SKILL.md) |
 | A decision is being made too fast / everyone agrees | [`six-hats`](skills/six-hats/SKILL.md) |
 | Everything feels timid, safe, cautious | [`worst-idea`](skills/worst-idea/SKILL.md) |
+
+**Applied:** [`post`](skills/post/SKILL.md) — a post on a topic or a reply to someone's post, routed through the toolkit and shaped into drafts you can send.
 
 Or just tell your agent **"use the lateral skill"** and let it diagnose you.
 
